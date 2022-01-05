@@ -1,5 +1,5 @@
 git clone https://github.com/imdarkhorse/instax.git
 cd instax
-chmod +x imstax.sh
+chmod +x instax.sh
 service tor start
 bash instax.sh
